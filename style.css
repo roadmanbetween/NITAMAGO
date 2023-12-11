@@ -48,6 +48,9 @@ header{
     position: relative;
     background:url("https://github.com/roadmanbetween/NITAMAGO/assets/153334940/997788f7-d250-4265-b8c2-394c3bedf8d7") no-repeat center;
     background-size:cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
 } 
 
 header:before{
