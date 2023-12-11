@@ -27,8 +27,8 @@ body{
 
 p{
     position: fixed;
-    top: 35%;
-    left: 55%;
+    top: 50%;
+    left: 68%;
     transform: translateY(-50%) translateX(-50%);
     color:#fff;
     text-shadow: 0 0 15px #fff;
@@ -36,7 +36,6 @@ p{
     font-size: 45px;
     font-weight: bold;
     line-height: 5rem;
-    transform: scale(-1, 1);
 }
 
 
@@ -49,7 +48,6 @@ header{
     position: relative;
     background:url("https://github.com/roadmanbetween/NITAMAGO/assets/153334940/997788f7-d250-4265-b8c2-394c3bedf8d7") no-repeat center;
     background-size:cover;
-    transform: scale(-1, 1);
 } 
 
 header:before{
